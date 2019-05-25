@@ -1,6 +1,6 @@
 ## About me
 
-Lindeza
+Todo
 
 ### Relevant Projects
 
@@ -9,7 +9,7 @@ See below
 - Project 2
 
 ```markdown
-Alguma coisa em markdown
+Todo
 
 - Bulleted
 - List
